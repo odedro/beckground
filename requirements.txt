@@ -5,7 +5,7 @@ matplotlib
 scipy
 xgboost
 sklearn
-tensorflow==1.13.1
+tensorflow==1.15.2
 numpy
 tensorflow-data-validation
 tensorflow-transform
