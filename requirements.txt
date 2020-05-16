@@ -1,0 +1,17 @@
+pandas
+jupyter
+catboost
+matplotlib
+scipy
+xgboost
+sklearn
+tensorflow==1.13.1
+numpy
+tensorflow-data-validation
+tensorflow-transform
+jupyterlab
+seaborn
+imbalanced-learn
+tensorboard
+witwidget
+category_encoders
